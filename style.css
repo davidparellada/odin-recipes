@@ -1,0 +1,40 @@
+.heading {
+    padding-left: 10px;
+    padding-bottom: 5px;
+    color: white;
+    background-color: darkslategray;
+    font-size: 50px;
+}
+
+ul,
+ol {font-size: 18px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.recipe-link {
+    color: darkslategray;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.recipe-heading {
+    color: darkslategray;
+    font-size: 45px;
+}
+
+.recipe-image {
+    height: 500px;
+    width: auto;
+}
+
+.description {
+    font-size: 20px;
+}
+
+.section {
+    font-size: 34px;
+    color: darkslategray;
+}
